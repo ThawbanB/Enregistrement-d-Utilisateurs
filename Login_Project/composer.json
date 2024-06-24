@@ -1,0 +1,17 @@
+{
+    "name": "thawb/login_project",
+    "autoload": {
+        "psr-4": {
+            "Thawb\\LoginProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThawbanB",
+            "email": "thawbanjabss@outlook.fr"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.6"
+    }
+}
